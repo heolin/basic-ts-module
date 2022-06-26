@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@heolin/test-package": "file:../test-package",
+    "typescript": "^4.7.4"
+  },
+  "scripts": {
+    "tsc": "tsc"
+  }
+}

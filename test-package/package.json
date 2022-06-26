@@ -1,0 +1,15 @@
+{
+    "name": "@heolin/test-package",
+    "version": "0.0.1",
+    "devDependencies": {
+        "typescript": "^4.7.4"
+    },
+    "scripts": {
+        "tsc": "tsc"
+    },
+    "main": "dist/lib/index.js",
+    "types": "dist/lib/index.d.js",
+    "files": [
+        "dist/lib/**/*"
+    ]
+}
